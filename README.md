@@ -7,7 +7,7 @@
 
 
 # 项目简介
-云帆考试系统V2.0版本，后端采用Java17+SpringBoot3.0，前端使用Vue3.0+TypeScript+ElementPlus；项目实现了前后端的完整考试流程，基础功能组件完善可用，便于同学们对前瞻技术的体验和学习研究，感谢关注本项目！  
+秉承一贯的开源理念，云帆考试系统在原有旧项目的基础上（旧版移步：[https://gitee.com/vandc/yf-exam-lite](https://gitee.com/vandc/yf-exam-lite)）再次升级，本次升级不管是从后端还是前台，都采用全新的技术栈来开发；后端采用Java17+SpringBoot3.0，前端使用Vue3.0+TypeScript+ElementPlus；项目实现了前后端的完整考试流程，基础功能组件完善可用，便于同学们对前瞻技术的体验和学习研究，感谢关注本项目！  
 
 
 # 技术栈
@@ -39,23 +39,14 @@
 # 在线体验  
 体验地址： [https://be2.yfhl.net](https://be2.yfhl.net)  
 体验账号：admin/admin（管理员）  student/student（学员）  
-官网网站： [https://www.yfhl.net](https://www.yfhl.net)   
+官网网站： [https://www.yfhl.net](https://www.yfhl.net)    
 QQ交流群：757328773  
-官方微信公众号：
 
-![微信图片_20260612145015_616_71.jpg](https://raw.gitcode.com/user-images/assets/4211287/32338fc0-0526-4ec5-8259-d2ee38f2d00d/微信图片_20260612145015_616_71.jpg '微信图片_20260612145015_616_71.jpg')
-
-
-> 特别说明：体验地址如果不能访问或无法登录，请联系我们 
-
-
+> 特别说明：体验地址如果不能访问或无法登录，请联系我们    
 
  
 
 # 商业咨询  
-
-商业版地址：https://exam.yfhl.net
-(点击学员账号和管理员账号可以直接登陆）
 
 > 商业版本是开源的动力和支持，如果您需要商业版本，请联系我们  
 

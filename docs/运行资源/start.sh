@@ -1,0 +1,1 @@
+java -jar yf-bev2-api.jar --spring.config.location=application-local.yml
